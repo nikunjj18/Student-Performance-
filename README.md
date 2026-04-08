@@ -44,7 +44,7 @@ The dataset contains 26 features grouped as:
 - Decision Tree  
 - KNN (baseline)  
 
----
+
 
 ## RESULTS
 
@@ -59,7 +59,7 @@ The dataset contains 26 features grouped as:
 - F1-score: **87%**  
 - Recall: **88.5%**  
 
----
+
 
 ## Key Insights  
 - Study consistency and concept understanding are strongest predictors  
@@ -69,7 +69,7 @@ The dataset contains 26 features grouped as:
 
 
 ## PROJECT STRUCTURE
-```
+
 project/
 │──README.md
 │── Student_Performance.ipynb
