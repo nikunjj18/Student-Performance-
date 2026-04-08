@@ -66,10 +66,10 @@ The dataset contains 26 features grouped as:
 - Lifestyle factors like sleep and social media affect outcomes  
 - High-performing students are easier to predict
 - 
-## 🛠 How to Run the Notebook
+## How to Run the Notebook
 Follow these steps to run the **Student Performance Classification** notebook locally:
 
-### 1️⃣ Clone the Repository
+## Clone the Repository
 Open terminal (or CMD / Git Bash) and run:
 ```bash
 git clone https://github.com/nikunjj18/Student-Performance-.git
