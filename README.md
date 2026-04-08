@@ -1,4 +1,4 @@
-# Student Performance Classification
+# STUDENT PERFORMANCE CLASSIFICATION
 
 ## OVERVIEW
 This project builds a multi-class classification model to predict student performance levels (Low, Moderate, High) using a dataset of 8,000+ records and 26 features.  
@@ -63,3 +63,10 @@ The dataset contains 26 features grouped as:
 - High-performing students are easier to predict  
 
 ## PROJECT STRUCTURE
+
+```
+.
+├── README.md
+├── Student Performance Classification.ipynb
+└── dataset.csv
+```
