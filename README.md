@@ -64,7 +64,16 @@ The dataset contains 26 features grouped as:
 - Study consistency and concept understanding are strongest predictors  
 - Moderate AI usage improves performance; high dependency reduces it  
 - Lifestyle factors like sleep and social media affect outcomes  
-- High-performing students are easier to predict  
+- High-performing students are easier to predict
+- 
+## 🛠 How to Run the Notebook
+Follow these steps to run the **Student Performance Classification** notebook locally:
+
+### 1️⃣ Clone the Repository
+Open terminal (or CMD / Git Bash) and run:
+```bash
+git clone https://github.com/nikunjj18/Student-Performance-.git
+cd Student-Performance-
 
 ## Project Structure
 ```text
