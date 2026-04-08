@@ -62,4 +62,10 @@ The dataset contains 26 features grouped as:
 - Lifestyle factors like sleep and social media affect outcomes  
 - High-performing students are easier to predict  
 
-
+## Project Structure
+```text
+.
+|-- README.md
+|-- Student Performance.ipynb
+└-- ai_impact_student_performance_dataset.csv
+```
