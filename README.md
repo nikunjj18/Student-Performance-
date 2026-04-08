@@ -1,4 +1,4 @@
-# STUDENT PERFORMANCE CLASSIFICATION
+# Student Performance Classification
 
 ## OVERVIEW
 This project builds a multi-class classification model to predict student performance levels (Low, Moderate, High) using a dataset of 8,000+ records and 26 features.  
@@ -19,7 +19,6 @@ The dataset contains 26 features grouped as:
 **Engagement:** Class participation, grade level  
 
 **Target:** Performance category (Low / Moderate / High)
-
 
 ## METHODOLOGY
 
@@ -44,8 +43,6 @@ The dataset contains 26 features grouped as:
 - Decision Tree  
 - KNN (baseline)  
 
-
-
 ## RESULTS
 
 ### Before Tuning  
@@ -56,10 +53,8 @@ The dataset contains 26 features grouped as:
 
 ### Final Model (CatBoost)  
 - Accuracy: **84.7%**  
-- F1-score: **87%**  
+- F1-score: **0.87**  
 - Recall: **88.5%**  
-
-
 
 ## Key Insights  
 - Study consistency and concept understanding are strongest predictors  
@@ -67,10 +62,4 @@ The dataset contains 26 features grouped as:
 - Lifestyle factors like sleep and social media affect outcomes  
 - High-performing students are easier to predict  
 
-
 ## PROJECT STRUCTURE
-
-project/
-│──README.md
-│── Student_Performance.ipynb
-│── dataset
