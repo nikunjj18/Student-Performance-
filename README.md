@@ -64,7 +64,7 @@ The dataset contains 26 features grouped as:
 
 ## PROJECT STRUCTURE
 
-```
+```text
 .
 ├── README.md
 ├── Student Performance Classification.ipynb
