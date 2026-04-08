@@ -4,6 +4,10 @@
 This project builds a multi-class classification model to predict student performance levels (Low, Moderate, High) using a dataset of 8,000+ records and 26 features.  
 The model incorporates academic behavior, lifestyle factors, and AI usage patterns to generate accurate predictions.
 
+##  VIEW FULL NOTEBOOK
+The complete notebook with code and outputs can be viewed here:  
+https://nbviewer.org/github/nikunjj18/Student-Performance-/blob/main/Student_Performance.ipynb
+
 ## OBJECTIVES 
 - Predict student performance categories  
 - Analyze impact of AI usage on academic outcomes  
